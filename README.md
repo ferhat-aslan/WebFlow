@@ -2,6 +2,6 @@
 
 ## A Responsive Webflow project that migrated from figma.
 
-<img src="webwflow.jpg" width="1070" height="586" />
-<img src="webwflow1.jpg" width="567" height="557" />
-<img src="webwflow2.jpg" width="320" height="556" />
+<img src="webwflow.png" width="967" height="533" />
+<img src="webwflow1.png" width="567" height="557" />
+<img src="webwflow2.png" width="320" height="556" />
